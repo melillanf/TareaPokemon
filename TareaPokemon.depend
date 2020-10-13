@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1601629834 source:c:\users\melil\desktop\tareapokemon\hashmap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"hashmap.h"
+
+1601629834 c:\users\melil\desktop\tareapokemon\hashmap.h
+
+1602447284 source:c:\users\melil\desktop\tareapokemon\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hashmap.h"
+	<string.h>
+	"list.h"
+
+1601930384 source:c:\users\melil\desktop\tareapokemon\list.c
+	"list.h"
+	<stdlib.h>
+	<assert.h>
+
+1601929934 c:\users\melil\desktop\tareapokemon\list.h
+	<stdlib.h>
+	<stdio.h>
+
